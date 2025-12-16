@@ -1,0 +1,84 @@
+{
+  "tools": {
+    "Generic Tool": {
+      "hotkey": "ctrl + insert",
+      "delay": 0.0,
+      "title": "",
+      "is_custom": false
+    },
+    "Lokalise": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.15,
+      "title": " | Lokalise",
+      "is_custom": false
+    },
+    "MultiTrans Web Editor": {
+      "hotkey": "",
+      "delay": 0.2,
+      "title": "MultiTrans Web Editor",
+      "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid.",
+      "is_custom": false
+    },
+    "Phrase": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.2,
+      "title": " - Editor for Web",
+      "is_custom": false
+    },
+    "Smartcat": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.0,
+      "title": "",
+      "is_custom": false
+    },
+    "Smartling": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.0,
+      "title": "Smartling",
+      "is_custom": false
+    },
+    "Trados Studio": {
+      "hotkey": "alt + insert",
+      "delay": 0.0,
+      "title": "Trados Studio -",
+      "is_custom": false
+    },
+    "Trados Online Editor": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.4,
+      "title": "Trados Online Editor",
+      "is_custom": false
+    },
+    "WordBee (legacy editor)": {
+      "hotkey": "alt+insert",
+      "delay": 0.2,
+      "title": "",
+      "is_custom": false
+    },
+    "WordBee (new editor)": {
+      "hotkey": "alt + insert",
+      "delay": 0.2,
+      "title": "",
+      "info": "The new version of WordBee is incompatible with Catnip. Please go to the main page and make sure the box 'Please switch to the new editor' is unchecked. Then reload the editor.",
+      "is_custom": false
+    },
+    "memoQ (desktop)": {
+      "hotkey": "ctrl + shift + s",
+      "delay": 0.0,
+      "title": "memoQ",
+      "is_custom": false
+    },
+    "memoQ (web)": {
+      "hotkey": "ctrl+shift+s",
+      "delay": 0.0,
+      "title": "memoQwebTrans",
+      "is_custom": false
+    },
+    "XTM": {
+      "hotkey": "ctrl+insert",
+      "delay": 0.2,
+      "title": "",
+      "is_custom": false
+    }
+  }
+}

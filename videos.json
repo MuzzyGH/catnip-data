@@ -1,0 +1,38 @@
+{
+    "DeepL Pro": {
+        "title": "How to get DeepL API Key",
+        "src": "https://player.vimeo.com/video/823111497?h=9a60ec7769",
+        "message": "Click here to configure DeepL Pro",
+        "engine": "DeepL Pro"
+    },
+    "DeepL Free": {
+        "title": "How to get DeepL Free API Key",
+        "src": "https://player.vimeo.com/video/823111497?h=9a60ec7769",
+        "message": "Click here to configure DeepL Free",
+        "engine": "DeepL Free"
+    },
+    "Gemini": {
+        "title": "How to get Gemini API Key",
+        "src": "https://player.vimeo.com/video/662689422?h=dc1a3b42dc",
+        "message": "Click here to configure Gemini",
+        "engine": "Gemini"
+    },
+    "ChatGPT": {
+        "title": "How to get OpenAI API Key",
+        "src": "https://player.vimeo.com/video/662689422?h=dc1a3b42dc",
+        "message": "Click here to configure ChatGPT",
+        "engine": "ChatGPT"
+    },
+    "Claude": {
+        "title": "How to get Claude API Key",
+        "src": "https://player.vimeo.com/video/662689422?h=dc1a3b42dc",
+        "message": "Click here to configure Claude",
+        "engine": "Claude"
+    },
+    "Pretranslation": {
+        "title": "API Key Tutorial",
+        "src": "https://player.vimeo.com/video/148751763",
+        "message": "Click here to load your Pretranslation",
+        "engine": "Pretranslation"
+    }
+}
