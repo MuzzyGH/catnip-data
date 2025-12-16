@@ -1,5 +1,4 @@
 {
-  "version": 1.0,
   "tools": {
     "Generic Tool": {
       "hotkey": "ctrl + insert",
@@ -84,3 +83,4 @@
   }
 
 }
+
