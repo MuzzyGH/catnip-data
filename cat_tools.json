@@ -1,6 +1,6 @@
 {
   "tools": {
-    "Generic Tool": {
+    "Generic tool": {
       "hotkey": "ctrl + insert",
       "delay": 0.0,
       "title": "",
@@ -83,4 +83,5 @@
   }
 
 }
+
 
